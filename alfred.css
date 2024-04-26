@@ -1,0 +1,14 @@
+body{
+    background-image: url(OIP\ \(3\).jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.AA-div{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+a{
+    text-decoration: none;
+    color: rgb(231, 7, 7);
+}

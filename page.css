@@ -10,6 +10,7 @@ body{
     background-image: url(R\ \(2\).jpeg);
     position: absolute;
     opacity: 0.9;
+    backdrop-filter: blur(100px);
 }
 h1 {
     color: white;
@@ -24,4 +25,8 @@ p{
     display: flex;
     flex-direction: row;
     gap: 20px;
+    color: #f5f5f5;
+}
+a{
+    color: #f8f3f3;
 }
