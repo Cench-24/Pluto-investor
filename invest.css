@@ -1,0 +1,43 @@
+body{
+    background-image: url('R (1).jpeg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: middle;
+    background-attachment: fixed;
+    background-origin: border-box;
+    background-clip: content-box;
+}
+h1{
+    color: white;
+    text-align: center;
+    font-size: 3rem;
+}
+p{ color: antiquewhite;
+}
+.sleeve-div {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+.pan {
+    display: flex;
+   flex-direction: row;
+   gap: 20px;
+   align-items: center;
+}
+img{
+    width: max-content;
+    height: 200px;
+}
+.pa{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    gap: 10px;
+    padding-left: 5rem;
+    color: antiquewhite;
+}
+.pa>p{
+    flex-grow: 1;
+    text-align: center;
+}

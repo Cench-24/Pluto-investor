@@ -1,0 +1,32 @@
+p{
+    align-items: center;
+    text-align: center;
+    gap: 5rem;
+    padding-left: 5rem;
+    padding-top: 10rem;
+}
+h1{
+    align-items: center;
+    text-align: center;
+    gap: 5rem;
+    padding-left: 5rem;
+    color: antiquewhite;
+    font-size: 5rem;
+}
+body{
+    background-image: url(oando-logo-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+p{
+    /*background-image: linear-gradient(to-right, rgb(70%, 0%, 60%));*/
+    color: rgb(2, 51, 165);
+}
+
+.dive-div {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}

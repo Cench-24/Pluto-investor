@@ -1,0 +1,30 @@
+.Rizz-div {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+h1{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    font-size: 5rem;
+    padding-left: 5rem;
+    color: antiquewhite;
+    background-image: opacity(0.8);
+}
+.AD-div{
+        display: flex;
+       flex-direction: row;
+       gap: 20px;
+       align-items: center;
+    }
+body{
+    background-image: url(OIP\ \(1\).jpeg);
+    background-position: center;
+    background-size: contain;
+}
+p{
+    color: antiquewhite;
+    font-size: 20px;
+}

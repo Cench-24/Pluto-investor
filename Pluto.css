@@ -1,0 +1,25 @@
+body{
+    background-image: url(OIP.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: middle;
+    background-attachment: fixed;
+    background-origin: border-box;
+    background-clip: content-box;
+}
+p{ color: antiquewhite;}
+
+h1{
+    align-items: center;
+    text-align: center;
+    gap: 5rem;
+    padding-left: 5rem;
+    color: antiquewhite;
+    font-size: 5rem;
+}
+
+.link-div {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}

@@ -1,0 +1,22 @@
+.page-div{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+h1{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    font-size: 5rem;
+    padding-left: 5rem;
+}
+body{
+    background-image: url(th.jpeg);
+    position: absolute;
+    opacity: 0.9;
+}
+p{
+    font-size: 20px;
+    color: antiquewhite;
+}

@@ -1,0 +1,27 @@
+
+h1 {
+    align-content: center;
+    flex-direction: row;
+    font-size: 5rem;
+    text-align: center;
+    text-decoration: wavy;
+}
+body{
+    background-image: url(R\ \(2\).jpeg);
+    position: absolute;
+    opacity: 0.9;
+}
+h1 {
+    color: white;
+    text-align: center;
+    font-size: 3rem;
+}
+p{
+    color: antiquewhite;
+    font-style: oblique;
+}
+.Rizz-div {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
